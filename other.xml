@@ -1,0 +1,65 @@
+<application>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="OCExternalDocSettings">
+    <option name="browser" value="DASH" />
+  </component>
+  <component name="OCRunConfigurationsSettings">
+    <option name="STOP_RUNNING_SESSION_AUTOMATICALLY" value="true" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df9ddf9bdf9adf98dfcbdf9edf9adf99dfccdf93df92df9bdf9fdf92df92df9edf9ddfcedfcbdfc8df9fdfcbdfc8dfc8df93dfcedf99df9edf9ddfcbdf98dfc8dfccdfc8dfcedf92dfccdf9bdf92df9b</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="dbaldwin" />
+      <option name="repoName" value="DronePan" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Xcode Build Log" />
+      </set>
+    </option>
+  </component>
+  <component name="XcodeSettings">
+    <option name="selectedXcode" value="/Applications/Xcode.app/Contents/Developer" />
+    <option name="detectedXcodes">
+      <list>
+        <option value="/Applications/Xcode.app/Contents/Developer" />
+      </list>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+</application>
