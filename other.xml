@@ -38,6 +38,7 @@
     <option name="detectedXcodes">
       <list>
         <option value="/Applications/Xcode.app/Contents/Developer" />
+        <option value="/Applications/Xcode 7.app/Contents/Developer" />
       </list>
     </option>
   </component>
